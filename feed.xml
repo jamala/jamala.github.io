@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jamal Wants a Rock</title>
+  <subtitle>Mostly a coding blog.</subtitle>
+  <id>https://jamala.github.io</id>
+  <link href="https://jamala.github.io"/>
+  <link href="https://jamala.github.io/feed.xml" rel="self"/>
+  <updated>2017-06-04T21:27:00-05:00</updated>
+  <author>
+    <name>Jamal Rogers</name>
+  </author>
+  <entry>
+    <title>Starting Now</title>
+    <link rel="alternate" href="https://jamala.github.io/2017/06/05/starting-now/"/>
+    <id>https://jamala.github.io/2017/06/05/starting-now/</id>
+    <published>2017-06-04T21:27:00-05:00</published>
+    <updated>2017-06-04T21:41:44-05:00</updated>
+    <author>
+      <name>Jamal Rogers</name>
+    </author>
+    <summary type="html">Ok, so I’ve been meaning to create this blog for a while now. I have a huge list of programming topics</summary>
+  </entry>
+</feed>
