@@ -106,6 +106,14 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+# Middleman-deploy configuration
+activate :deploy do |deploy|
+  deploy.deploy_method = :git
+  deploy.remote = 'git@github.com:jamala/jamala.github.io.git'
+  deploy.branch = 'master'
+  deploy.build_before = true
+end
+
 # Pretty URLs - https://middlemanapp.com/advanced/pretty_urls/
 activate :directory_indexes
 
